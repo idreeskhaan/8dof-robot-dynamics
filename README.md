@@ -1,2 +1,2 @@
-# jacobian
-makes a jacobian for 6 dof RRRRRR manipulator
+# Kinematics and Dynamics of an 8 DOF manipulator
+Solves Kineamtics and Dynamics of an 8 DOF serial manipulator
